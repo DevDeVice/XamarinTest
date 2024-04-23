@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028E4D85-C159-41AF-ABA3-4FD36D48A1FE}|XamarinTest\\XamarinTest.iOS\\XamarinTest.iOS.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest.ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028E4D85-C159-41AF-ABA3-4FD36D48A1FE}|XamarinTest\\XamarinTest.iOS\\XamarinTest.iOS.csproj|solutionrelative:xamarintest\\xamarintest.ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028E4D85-C159-41AF-ABA3-4FD36D48A1FE}|XamarinTest\\XamarinTest.iOS\\XamarinTest.iOS.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest.ios\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{028E4D85-C159-41AF-ABA3-4FD36D48A1FE}|XamarinTest\\XamarinTest.iOS\\XamarinTest.iOS.csproj|solutionrelative:xamarintest\\xamarintest.ios\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA304D9-1322-40B9-93A1-08FB945DF571}|XamarinTest\\XamarinTest.Android\\XamarinTest.Android.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA304D9-1322-40B9-93A1-08FB945DF571}|XamarinTest\\XamarinTest.Android\\XamarinTest.Android.csproj|solutionrelative:xamarintest\\xamarintest.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\App.xaml",
+              "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\App.xaml",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\App.xaml",
+              "RelativeToolTip": "XamarinTest\\XamarinTest\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T12:05:43.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "XamarinTest\\XamarinTest.iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.iOS\\AppDelegate.cs",
+              "RelativeToolTip": "XamarinTest\\XamarinTest.iOS\\AppDelegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:59:14.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.iOS\\Main.cs",
+              "RelativeDocumentMoniker": "XamarinTest\\XamarinTest.iOS\\Main.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.iOS\\Main.cs",
+              "RelativeToolTip": "XamarinTest\\XamarinTest.iOS\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:59:06.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "XamarinTest\\XamarinTest.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.Android\\MainActivity.cs",
+              "RelativeToolTip": "XamarinTest\\XamarinTest.Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:58:51.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GettingStarted.txt",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\GettingStarted.txt",
+              "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\GettingStarted.txt",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\GettingStarted.txt",
+              "RelativeToolTip": "XamarinTest\\XamarinTest\\GettingStarted.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-23T11:48:07.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
