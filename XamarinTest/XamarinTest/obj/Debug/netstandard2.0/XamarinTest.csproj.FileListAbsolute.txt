@@ -1,0 +1,17 @@
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.deps.json
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.dll
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\ref\XamarinTest.dll
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\bin\Debug\netstandard2.0\XamarinTest.pdb
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.csproj.AssemblyReference.cache
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.AssemblyInfoInputs.cache
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.AssemblyInfo.cs
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.csproj.CoreCompileInputs.cache
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.sourcelink.json
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.dll
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\refint\XamarinTest.dll
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\XamarinTest.pdb
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest\obj\Debug\netstandard2.0\Views\CoffeeEquipmentPage.xaml.g.cs
