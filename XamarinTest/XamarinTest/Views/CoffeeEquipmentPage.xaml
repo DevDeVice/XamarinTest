@@ -8,13 +8,17 @@
     <ContentPage.BindingContext>
         <viewmodels:CoffeeEquipmentViewModel/>
     </ContentPage.BindingContext>
-    <ListView BackgroundColor="Transparent"
+    <!--<ListView BackgroundColor="Transparent"
               ItemsSource="{Binding Coffee}"
               HasUnevenRows="True"
               SeparatorVisibility="None">
         <ListView.ItemTemplate>
             <DataTemplate x:DataType="model:Coffee">
                 <ViewCell>
+                    <ViewCell.ContextActions>
+                        <MenuItem Text="Favorite"/>
+                        <MenuItem Text="Delete"/>
+                    </ViewCell.ContextActions>
                     <Grid Padding="10">
                         <Frame CornerRadius="20" 
                                HasShadow="True">
@@ -34,8 +38,69 @@
                 </ViewCell>
             </DataTemplate>
         </ListView.ItemTemplate>
+        <ListView.Header>
+            <StackLayout>
+                <Label Text="Header" TextColor="CornflowerBlue" Background="Gray"/>
+            </StackLayout>
+        </ListView.Header>
+        <ListView.Footer>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="Load More" TextColor="CornflowerBlue" Background="Gray"/>
+            </StackLayout>
+        </ListView.Footer>
+    </ListView>-->
+    <ListView 
+        ItemSelected="ListView_ItemSelected"
+        ItemTapped="ListView_ItemTapped"
+        CachingStrategy="RecycleElement"
+        BackgroundColor="Transparent"
+        ItemsSource="{Binding CoffeeGroups}"
+        HasUnevenRows="True"
+        IsGroupingEnabled="True"
+        GroupDisplayBinding="{Binding Key}"
+        SeparatorVisibility="None"
+        IsPullToRefreshEnabled="True"
+        IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+        RefreshCommand="{Binding RefreshCommand}"
+        RefreshControlColor="Red">
+        <ListView.ItemTemplate>
+            <DataTemplate x:DataType="model:Coffee">
+                <ViewCell>
+                    <ViewCell.ContextActions>
+                        <MenuItem Text="Favorite" Clicked="MenuItem_Clicked"/>
+                        <MenuItem Text="Delete"/>
+                    </ViewCell.ContextActions>
+                    <Grid Padding="10">
+                        <Frame CornerRadius="20" 
+                           HasShadow="True">
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding Image}" WidthRequest="66"/>
+                                <StackLayout Padding="10" VerticalOptions="Center">
+                                    <Label VerticalOptions="Center" 
+                                   FontSize="Large" 
+                                   Text="{Binding Name}"/>
+                                    <Label VerticalOptions="Center" 
+                                   FontSize="Large" 
+                                   Text="{Binding Roaster}"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+        <ListView.Header>
+            <StackLayout>
+                <Label Text="Header" TextColor="CornflowerBlue" Background="Gray"/>
+            </StackLayout>
+        </ListView.Header>
+        <ListView.Footer>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="Load More" TextColor="CornflowerBlue" Background="Gray"/>
+            </StackLayout>
+        </ListView.Footer>
     </ListView>
-        <!--
+    <!--
         <Grid RowDefinitions="*,Auto,Auto,*">
             <Label Grid.Row="1"
             VerticalOptions="Center" 

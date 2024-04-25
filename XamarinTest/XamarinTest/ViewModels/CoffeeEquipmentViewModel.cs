@@ -1,6 +1,7 @@
 ﻿using MvvmHelpers;
 using MvvmHelpers.Commands;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using XamarinTest.Models;
@@ -27,9 +28,13 @@ namespace XamarinTest.ViewModels
             Coffee.Add(new Coffee { Roaster = "Yes plz", Name = "Potent", Image = image });
             Coffee.Add(new Coffee { Roaster = "Blue", Name = "Kenya", Image = image });
             Coffee.Add(new Coffee { Roaster = "Blue", Name = "Kenaya", Image = image });
+            Coffee.Add(new Coffee { Roaster = "Blue", Name = "Kenaya", Image = image });
+            Coffee.Add(new Coffee { Roaster = "Blue", Name = "Kenaya", Image = image });
+            Coffee.Add(new Coffee { Roaster = "Blue", Name = "Kenaya", Image = image });
+            Coffee.Add(new Coffee { Roaster = "Blue", Name = "Kenaya", Image = image });
 
-            CoffeeGroups.Add(new Grouping<string, Coffee>("Yes plz", Coffee));
-            CoffeeGroups.Add(new Grouping<string, Coffee>("Blue", Coffee));
+            CoffeeGroups.Add(new Grouping<string, Coffee>("Blue", new[] { Coffee[2] }));
+            CoffeeGroups.Add(new Grouping<string, Coffee>("Yes plz", Coffee.Take(2)));
 
             RefreshCommand = new AsyncCommand(Refresh);
         }

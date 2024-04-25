@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest\\viewmodels\\coffeeequipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\xamarintest\\xamarintest\\viewmodels\\coffeeequipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\viewmodels\\coffeeequipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\xamarintest\\xamarintest\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\xamarintest\\xamarintest\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
@@ -84,58 +80,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\ViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\ViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "XamarinTest\\XamarinTest\\ViewModels\\ViewModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T11:59:53.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CoffeeEquipmentViewModel.cs",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\ViewModels\\CoffeeEquipmentViewModel.cs",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\ViewModels\\CoffeeEquipmentViewModel.cs",
               "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\ViewModels\\CoffeeEquipmentViewModel.cs",
               "RelativeToolTip": "XamarinTest\\XamarinTest\\ViewModels\\CoffeeEquipmentViewModel.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBkAAAA9AAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T17:14:43.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CoffeeEquipmentPage.xaml",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml",
               "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml",
               "RelativeToolTip": "XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBMAAAAwAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEUAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-24T12:38:35.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CoffeeEquipmentPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml.cs",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml.cs",
               "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml.cs",
               "RelativeToolTip": "XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswBAAAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T16:47:45.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\AppShell.xaml.cs",
@@ -147,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\App.xaml",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\App.xaml",
@@ -159,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\AppShell.xaml",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\AppShell.xaml",
@@ -171,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\App.xaml.cs",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\App.xaml.cs",
@@ -183,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "AppDelegate.cs",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.iOS\\AppDelegate.cs",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest.iOS\\AppDelegate.cs",
@@ -195,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.iOS\\Main.cs",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest.iOS\\Main.cs",
@@ -207,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest.Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest.Android\\MainActivity.cs",
