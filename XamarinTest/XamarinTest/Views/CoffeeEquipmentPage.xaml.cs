@@ -17,10 +17,10 @@ namespace XamarinTest.Views
         {
             InitializeComponent();
         }
+        /*
         private async void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            var coffee = ((ListView)sender).SelectedItem as Coffee;
-            if (coffee == null)
+            if (!(((ListView)sender).SelectedItem is Coffee coffee))
                 return;
 
             await DisplayAlert("Coffee Selected", coffee.Name, "OK");
@@ -31,11 +31,10 @@ namespace XamarinTest.Views
         }
         private async void MenuItem_Clicked(object sender, EventArgs e)
         {
-            var coffee = ((MenuItem)sender).BindingContext as Coffee;
-            if (coffee == null)
+            if (!(((MenuItem)sender).BindingContext is Coffee coffee))
                 return;
 
             await DisplayAlert("Coffee Favorited", coffee.Name, "OK");
-        }
+        }*/
     }
 }

@@ -4,7 +4,8 @@
              xmlns:viewmodels="clr-namespace:XamarinTest.ViewModels" 
              xmlns:model="clr-namespace:XamarinTest.Models"
              x:Class="XamarinTest.Views.CoffeeEquipmentPage"
-             x:DataType="viewmodels:CoffeeEquipmentViewModel">
+             x:DataType="viewmodels:CoffeeEquipmentViewModel"
+             x:Name="CoffeePage">
     <ContentPage.BindingContext>
         <viewmodels:CoffeeEquipmentViewModel/>
     </ContentPage.BindingContext>
@@ -50,8 +51,7 @@
         </ListView.Footer>
     </ListView>-->
     <ListView 
-        ItemSelected="ListView_ItemSelected"
-        ItemTapped="ListView_ItemTapped"
+        SelectedItem="{Binding SelectedCoffee, Mode=TwoWay}"
         CachingStrategy="RecycleElement"
         BackgroundColor="Transparent"
         ItemsSource="{Binding CoffeeGroups}"
@@ -67,7 +67,11 @@
             <DataTemplate x:DataType="model:Coffee">
                 <ViewCell>
                     <ViewCell.ContextActions>
-                        <MenuItem Text="Favorite" Clicked="MenuItem_Clicked"/>
+                        <MenuItem Text="Favorite" 
+                                  Command="{Binding 
+                            Source={x:Reference CoffeePage},
+                            Path=BindingContex.FavoriteCommand}"
+                                  CommandParameter="{Binding .}"/>
                         <MenuItem Text="Delete"/>
                     </ViewCell.ContextActions>
                     <Grid Padding="10">
@@ -83,6 +87,12 @@
                                    FontSize="Large" 
                                    Text="{Binding Roaster}"/>
                                 </StackLayout>
+                                <Button Text="Favorite" 
+                                        Command="{Binding
+                                    Source={RelativeSource
+                                    AncestorType={x:Type viewmodels:CoffeeEquipmentViewModel}},
+                                    Path=FavoriteCommand}" 
+                                        CommandParameter="{Binding .}"/>
                             </StackLayout>
                         </Frame>
                     </Grid>

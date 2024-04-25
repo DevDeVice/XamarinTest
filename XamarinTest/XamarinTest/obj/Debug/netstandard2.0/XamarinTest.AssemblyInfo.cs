@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XamarinTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e291531f0ae7f21d42dd56f36bc091b34f37b0d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c90b65d6bc4dc92ea90b091889fa4609f04ed17")]
 [assembly: System.Reflection.AssemblyProductAttribute("XamarinTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XamarinTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
