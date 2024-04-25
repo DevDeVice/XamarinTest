@@ -1,9 +1,10 @@
-﻿using System.Windows.Input;
-using Xamarin.Forms;
+﻿using MvvmHelpers;
+using MvvmHelpers.Commands;
+using System.Windows.Input;
 
 namespace XamarinTest.ViewModels
 {
-    class CoffeeEquipmentViewModel : BindableObject
+    class CoffeeEquipmentViewModel : ObservableObject
     {
         public CoffeeEquipmentViewModel()
         {

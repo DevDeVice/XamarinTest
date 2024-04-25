@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "mcl5T4/eLwwGqdEIXhnGMHOjl3epTRr88iWXglGvRr7mCuyvmhAqm76Pf6mKRILAMbsIC7qRZ7JNbNAlqm/7gw==",
+  "dgSpecHash": "mDC2/PX+kgjospMLfer9lmiyMoIejXnKsB+wxoT3UqZpWdm34DCW7LV27j43/8/nQDuO8WlNxRPKCjqRyhGMwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\XamarinTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sejko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sejko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sejko\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "C:\\Users\\sejko\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sejko\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\sejko\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\sejko\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
