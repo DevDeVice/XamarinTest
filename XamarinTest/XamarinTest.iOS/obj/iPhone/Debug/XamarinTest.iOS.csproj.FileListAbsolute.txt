@@ -61,3 +61,5 @@ C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.iOS\obj\iPhone\De
 C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.iOS\obj\iPhone\Debug\XamarinT.BE687F74.Up2Date
 C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.iOS\obj\iPhone\Debug\XamarinTest.iOS.exe
 C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.iOS\obj\iPhone\Debug\XamarinTest.iOS.pdb
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.iOS\bin\iPhone\Debug\MvvmHelpers.dll
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.iOS\bin\iPhone\Debug\MvvmHelpers.pdb

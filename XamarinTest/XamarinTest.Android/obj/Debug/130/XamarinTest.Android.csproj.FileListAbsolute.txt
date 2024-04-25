@@ -639,3 +639,5 @@ C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug
 C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\130\android\assets\MvvmHelpers.dll
+C:\Users\sejko\Desktop\Wpf\XamarinTest\XamarinTest\XamarinTest.Android\obj\Debug\130\android\assets\MvvmHelpers.pdb
