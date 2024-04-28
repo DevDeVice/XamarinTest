@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|c:\\users\\sejko\\desktop\\wpf\\xamarintest\\xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92782CF9-292C-4DD5-9EB2-753C465E86AA}|XamarinTest\\XamarinTest\\XamarinTest.csproj|solutionrelative:xamarintest\\xamarintest\\views\\coffeeequipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml",
               "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\XamarinTest\\XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml",
               "RelativeToolTip": "XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEgAAABAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-24T12:38:35.717Z",
               "EditorCaption": ""
@@ -87,8 +87,7 @@
               "RelativeToolTip": "XamarinTest\\XamarinTest\\Models\\Coffee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T13:26:59.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T13:26:59.033Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "XamarinTest\\XamarinTest\\ViewModels\\CoffeeEquipmentViewModel.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAWwCwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:14:43.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T17:14:43.575Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "XamarinTest\\XamarinTest\\Views\\CoffeeEquipmentPage.xaml.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAvwBMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T16:47:45.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T16:47:45.527Z"
             },
             {
               "$type": "Document",
